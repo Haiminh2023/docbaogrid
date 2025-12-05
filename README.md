@@ -82,9 +82,5 @@ vào:
 
 ---
 
-Nếu bạn cần tôi tạo:
-- phiên bản **README cực ngắn**
-- phiên bản **README có ảnh minh hoạ**
-- hoặc **tạo file README.md hoàn chỉnh để bạn tải về**
-
-→ chỉ cần nói nhé!
+Mọi thắc mắc vui lòng liên hệ Email
+Haiphuong0430@gmail.com
