@@ -1,7 +1,7 @@
-# Terms of Service – Koreader Google Drive Plugin
+# Terms of Service – Đọc online
 **Last updated: 2025-12-05**
 
-Koreader Google Drive Plugin (“Plugin”) là tiện ích cho phép người dùng đăng nhập Google Drive và truy cập tệp của họ trực tiếp từ KOReader. Khi sử dụng Plugin, bạn đồng ý với các điều khoản dưới đây.
+Đọc online (“Koreader Plugin”) là tiện ích cho phép người dùng đăng nhập Google Drive và truy cập tệp của họ trực tiếp từ KOReader. Khi sử dụng Plugin, bạn đồng ý với các điều khoản dưới đây.
 
 ---
 
