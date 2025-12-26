@@ -63,7 +63,7 @@ docbao.koplugin
 Nếu dùng Android, cần cài KOReader trước:
 
 Link tải:
-https://drive.google.com/drive/folders/1DbShLy-GSX2rrhkH_LB8XAvuHBqmUQfk?usp=sharing
+https://github.com/Haiminh2023/docbaogrid
 
 ---
 
