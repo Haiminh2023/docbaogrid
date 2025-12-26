@@ -23,6 +23,15 @@ Hỗ trợ mọi thiết bị: Kobo, Kindle, PocketBook, điện thoại Android
 
 ---
 
+### 📚 Kho truyện & sách chia sẻ
+
+- Kho nội dung công khai gồm : truyện tranh / truyện chữ / sách
+- Phân loại theo thể loại / danh mục
+- Duyệt nội dung theo dạng thư mục
+- Tải về đọc offline trong KOReader
+- File tải xuống có thể gắn nhãn phân loại
+- Quản lý file đã tải theo nhãn (như folder)
+
 ### ☁️ Kết nối Google Drive
 - Thêm **nhiều tài khoản Google** không giới hạn
 - Tìm kiếm file, truyện trực tiếp từ Google Drive
