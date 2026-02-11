@@ -1,7 +1,7 @@
 # Đọc Online – KOReader Plugin
 
-Plugin dành cho KOReader giúp đọc **báo online**, **truyện online**, và **kết nối Google Drive**.  
-Hỗ trợ mọi thiết bị: Kobo, Kindle, PocketBook, điện thoại Android.
+Plugin dành cho KOReader giúp đọc **báo online**, **truyện online**, **kho sách - truyện chia sẻ** và **kết nối Google Drive**.  
+Hỗ trợ mọi thiết bị: Kobo, Kindle, PocketBook, Android...
 
 Vui lòng truy cập trang chủ để tìm hiểu thêm
 
