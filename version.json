@@ -1,5 +1,5 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "url": "https://raw.githubusercontent.com/Haiminh2023/docbaogrid/main/docbao.koplugin_update_pack.zip",
-  "changelog": "Cập nhật fix lỗi phím cứng, chức năng tìm truyện, truyện đọc dở"
+  "changelog": "Cập nhật fix lỗi xóa cache"
 }
